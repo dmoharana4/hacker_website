@@ -1,0 +1,66 @@
+/* CSS properties  for Navbar */
+nav ul {
+  list-style-type:none;
+  background-color: #333;
+
+
+}
+nav ul li {
+  display: inline;
+  font-size: 28px;
+
+}
+a{
+  text-decoration: none;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: 'Indie Flower', cursive;
+
+}
+/* a:hover{
+  background-color: rgb(89,227,71);
+} */
+nav a:link{
+  text-decoration: none;
+  color: White;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: 'Indie Flower', cursive;
+}
+.White_Hat:hover{
+    background-color: white;
+    color: black;
+
+}
+.Black_Hat:hover {
+  background-color: Black;
+
+}
+
+.Grey_Hat:hover {
+  background-color: Grey;
+
+}
+/* a:active {
+  background-color: rgb(244,62,231)
+} */
+.align_right {
+  float: right;
+}
+
+/* Still not working */
+.white:hover {
+  background-color: white;
+  color: black !important;
+}
+
+
+/* For line */
+
+/* div {
+  width: 100%;
+  height: 10px;
+background-color: red;
+padding-top: 0px;
+} */
